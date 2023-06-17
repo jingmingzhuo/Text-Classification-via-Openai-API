@@ -1,0 +1,1199 @@
+[
+    {
+        "id": 0,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 495,
+        "completion_tokens": 45
+    },
+    {
+        "id": 1,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 507,
+        "completion_tokens": 55
+    },
+    {
+        "id": 2,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 495,
+        "completion_tokens": 41
+    },
+    {
+        "id": 3,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 508,
+        "completion_tokens": 41
+    },
+    {
+        "id": 4,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 36
+    },
+    {
+        "id": 5,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 516,
+        "completion_tokens": 52
+    },
+    {
+        "id": 6,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 55
+    },
+    {
+        "id": 7,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 514,
+        "completion_tokens": 48
+    },
+    {
+        "id": 8,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 515,
+        "completion_tokens": 51
+    },
+    {
+        "id": 9,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 40
+    },
+    {
+        "id": 10,
+        "output": null,
+        "acc": false,
+        "prompt_tokens": 503,
+        "completion_tokens": 82
+    },
+    {
+        "id": 11,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 45
+    },
+    {
+        "id": 12,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 42
+    },
+    {
+        "id": 13,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 508,
+        "completion_tokens": 49
+    },
+    {
+        "id": 14,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 47
+    },
+    {
+        "id": 15,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 59
+    },
+    {
+        "id": 16,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 58
+    },
+    {
+        "id": 17,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 55
+    },
+    {
+        "id": 18,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 57
+    },
+    {
+        "id": 19,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 51
+    },
+    {
+        "id": 20,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 526,
+        "completion_tokens": 74
+    },
+    {
+        "id": 21,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 508,
+        "completion_tokens": 60
+    },
+    {
+        "id": 22,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 520,
+        "completion_tokens": 50
+    },
+    {
+        "id": 23,
+        "output": null,
+        "acc": false,
+        "prompt_tokens": 512,
+        "completion_tokens": 81
+    },
+    {
+        "id": 24,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 41
+    },
+    {
+        "id": 25,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 510,
+        "completion_tokens": 52
+    },
+    {
+        "id": 26,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 48
+    },
+    {
+        "id": 27,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 500,
+        "completion_tokens": 43
+    },
+    {
+        "id": 28,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 36
+    },
+    {
+        "id": 29,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 68
+    },
+    {
+        "id": 30,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 523,
+        "completion_tokens": 54
+    },
+    {
+        "id": 31,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 515,
+        "completion_tokens": 50
+    },
+    {
+        "id": 32,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 52
+    },
+    {
+        "id": 33,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 54
+    },
+    {
+        "id": 34,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 52
+    },
+    {
+        "id": 35,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 44
+    },
+    {
+        "id": 36,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 59
+    },
+    {
+        "id": 37,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 62
+    },
+    {
+        "id": 38,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 45
+    },
+    {
+        "id": 39,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 509,
+        "completion_tokens": 53
+    },
+    {
+        "id": 40,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 45
+    },
+    {
+        "id": 41,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 496,
+        "completion_tokens": 46
+    },
+    {
+        "id": 42,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 49
+    },
+    {
+        "id": 43,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 494,
+        "completion_tokens": 48
+    },
+    {
+        "id": 44,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 520,
+        "completion_tokens": 55
+    },
+    {
+        "id": 45,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 64
+    },
+    {
+        "id": 46,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 41
+    },
+    {
+        "id": 47,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 511,
+        "completion_tokens": 66
+    },
+    {
+        "id": 48,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 50
+    },
+    {
+        "id": 49,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 64
+    },
+    {
+        "id": 50,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 67
+    },
+    {
+        "id": 51,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 512,
+        "completion_tokens": 42
+    },
+    {
+        "id": 52,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 499,
+        "completion_tokens": 50
+    },
+    {
+        "id": 53,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 42
+    },
+    {
+        "id": 54,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 50
+    },
+    {
+        "id": 55,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 49
+    },
+    {
+        "id": 56,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 511,
+        "completion_tokens": 62
+    },
+    {
+        "id": 57,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 510,
+        "completion_tokens": 47
+    },
+    {
+        "id": 58,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 507,
+        "completion_tokens": 55
+    },
+    {
+        "id": 59,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 531,
+        "completion_tokens": 69
+    },
+    {
+        "id": 60,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 45
+    },
+    {
+        "id": 61,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 502,
+        "completion_tokens": 42
+    },
+    {
+        "id": 62,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 59
+    },
+    {
+        "id": 63,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 512,
+        "completion_tokens": 90
+    },
+    {
+        "id": 64,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 42
+    },
+    {
+        "id": 65,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 503,
+        "completion_tokens": 70
+    },
+    {
+        "id": 66,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 47
+    },
+    {
+        "id": 67,
+        "output": null,
+        "acc": false,
+        "prompt_tokens": 506,
+        "completion_tokens": 33
+    },
+    {
+        "id": 68,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 55
+    },
+    {
+        "id": 69,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 54
+    },
+    {
+        "id": 70,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 490,
+        "completion_tokens": 41
+    },
+    {
+        "id": 71,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 40
+    },
+    {
+        "id": 72,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 539,
+        "completion_tokens": 65
+    },
+    {
+        "id": 73,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 58
+    },
+    {
+        "id": 74,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 56
+    },
+    {
+        "id": 75,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 491,
+        "completion_tokens": 48
+    },
+    {
+        "id": 76,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 38
+    },
+    {
+        "id": 77,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 518,
+        "completion_tokens": 56
+    },
+    {
+        "id": 78,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 494,
+        "completion_tokens": 50
+    },
+    {
+        "id": 79,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 512,
+        "completion_tokens": 69
+    },
+    {
+        "id": 80,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 509,
+        "completion_tokens": 41
+    },
+    {
+        "id": 81,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 43
+    },
+    {
+        "id": 82,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 42
+    },
+    {
+        "id": 83,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 529,
+        "completion_tokens": 48
+    },
+    {
+        "id": 84,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 504,
+        "completion_tokens": 45
+    },
+    {
+        "id": 85,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 516,
+        "completion_tokens": 54
+    },
+    {
+        "id": 86,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 511,
+        "completion_tokens": 49
+    },
+    {
+        "id": 87,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 38
+    },
+    {
+        "id": 88,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 513,
+        "completion_tokens": 51
+    },
+    {
+        "id": 89,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 49
+    },
+    {
+        "id": 90,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 63
+    },
+    {
+        "id": 91,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 498,
+        "completion_tokens": 48
+    },
+    {
+        "id": 92,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 513,
+        "completion_tokens": 46
+    },
+    {
+        "id": 93,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 40
+    },
+    {
+        "id": 94,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 503,
+        "completion_tokens": 83
+    },
+    {
+        "id": 95,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 530,
+        "completion_tokens": 81
+    },
+    {
+        "id": 96,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 513,
+        "completion_tokens": 52
+    },
+    {
+        "id": 97,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 508,
+        "completion_tokens": 55
+    },
+    {
+        "id": 98,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 516,
+        "completion_tokens": 44
+    },
+    {
+        "id": 99,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 511,
+        "completion_tokens": 47
+    },
+    {
+        "id": 100,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 78
+    },
+    {
+        "id": 101,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 48
+    },
+    {
+        "id": 102,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 509,
+        "completion_tokens": 46
+    },
+    {
+        "id": 103,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 52
+    },
+    {
+        "id": 104,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 496,
+        "completion_tokens": 48
+    },
+    {
+        "id": 105,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 503,
+        "completion_tokens": 65
+    },
+    {
+        "id": 106,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 508,
+        "completion_tokens": 55
+    },
+    {
+        "id": 107,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 56
+    },
+    {
+        "id": 108,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 496,
+        "completion_tokens": 49
+    },
+    {
+        "id": 109,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 52
+    },
+    {
+        "id": 110,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 498,
+        "completion_tokens": 51
+    },
+    {
+        "id": 111,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 51
+    },
+    {
+        "id": 112,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 55
+    },
+    {
+        "id": 113,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 73
+    },
+    {
+        "id": 114,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 38
+    },
+    {
+        "id": 115,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 46
+    },
+    {
+        "id": 116,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 509,
+        "completion_tokens": 52
+    },
+    {
+        "id": 117,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 59
+    },
+    {
+        "id": 118,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 38
+    },
+    {
+        "id": 119,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 65
+    },
+    {
+        "id": 120,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 512,
+        "completion_tokens": 40
+    },
+    {
+        "id": 121,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 56
+    },
+    {
+        "id": 122,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 496,
+        "completion_tokens": 70
+    },
+    {
+        "id": 123,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 53
+    },
+    {
+        "id": 124,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 514,
+        "completion_tokens": 50
+    },
+    {
+        "id": 125,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 38
+    },
+    {
+        "id": 126,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 511,
+        "completion_tokens": 39
+    },
+    {
+        "id": 127,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 503,
+        "completion_tokens": 44
+    },
+    {
+        "id": 128,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 508,
+        "completion_tokens": 98
+    },
+    {
+        "id": 129,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 505,
+        "completion_tokens": 57
+    },
+    {
+        "id": 130,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 54
+    },
+    {
+        "id": 131,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 503,
+        "completion_tokens": 47
+    },
+    {
+        "id": 132,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 493,
+        "completion_tokens": 39
+    },
+    {
+        "id": 133,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 495,
+        "completion_tokens": 48
+    },
+    {
+        "id": 134,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 53
+    },
+    {
+        "id": 135,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 494,
+        "completion_tokens": 69
+    },
+    {
+        "id": 136,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 40
+    },
+    {
+        "id": 137,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 54
+    },
+    {
+        "id": 138,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 40
+    },
+    {
+        "id": 139,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 511,
+        "completion_tokens": 59
+    },
+    {
+        "id": 140,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 495,
+        "completion_tokens": 58
+    },
+    {
+        "id": 141,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 39
+    },
+    {
+        "id": 142,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 45
+    },
+    {
+        "id": 143,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 36
+    },
+    {
+        "id": 144,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 54
+    },
+    {
+        "id": 145,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 509,
+        "completion_tokens": 54
+    },
+    {
+        "id": 146,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 56
+    },
+    {
+        "id": 147,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 44
+    },
+    {
+        "id": 148,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 511,
+        "completion_tokens": 43
+    },
+    {
+        "id": 149,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 501,
+        "completion_tokens": 55
+    },
+    {
+        "id": 150,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 50
+    },
+    {
+        "id": 151,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 67
+    },
+    {
+        "id": 152,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 503,
+        "completion_tokens": 53
+    },
+    {
+        "id": 153,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 506,
+        "completion_tokens": 46
+    },
+    {
+        "id": 154,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 508,
+        "completion_tokens": 86
+    },
+    {
+        "id": 155,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 497,
+        "completion_tokens": 40
+    },
+    {
+        "id": 156,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 499,
+        "completion_tokens": 43
+    },
+    {
+        "id": 157,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 500,
+        "completion_tokens": 56
+    },
+    {
+        "id": 158,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 56
+    },
+    {
+        "id": 159,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 527,
+        "completion_tokens": 75
+    },
+    {
+        "id": 160,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 83
+    },
+    {
+        "id": 161,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 498,
+        "completion_tokens": 44
+    },
+    {
+        "id": 162,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 504,
+        "completion_tokens": 61
+    },
+    {
+        "id": 163,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 513,
+        "completion_tokens": 48
+    },
+    {
+        "id": 164,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 502,
+        "completion_tokens": 53
+    },
+    {
+        "id": 165,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 502,
+        "completion_tokens": 40
+    },
+    {
+        "id": 166,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 504,
+        "completion_tokens": 57
+    },
+    {
+        "id": 167,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 507,
+        "completion_tokens": 59
+    },
+    {
+        "id": 168,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 503,
+        "completion_tokens": 56
+    },
+    {
+        "id": 169,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 52
+    },
+    {
+        "id": 170,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 505,
+        "completion_tokens": 41
+    }
+]

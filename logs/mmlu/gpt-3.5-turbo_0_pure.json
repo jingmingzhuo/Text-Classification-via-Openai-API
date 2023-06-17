@@ -1,0 +1,1199 @@
+[
+    {
+        "id": 0,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 69,
+        "completion_tokens": 5
+    },
+    {
+        "id": 1,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 79,
+        "completion_tokens": 4
+    },
+    {
+        "id": 2,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 5
+    },
+    {
+        "id": 3,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 5
+    },
+    {
+        "id": 4,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 5,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 89,
+        "completion_tokens": 8
+    },
+    {
+        "id": 6,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 4
+    },
+    {
+        "id": 7,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 84,
+        "completion_tokens": 9
+    },
+    {
+        "id": 8,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 89,
+        "completion_tokens": 6
+    },
+    {
+        "id": 9,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 10,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 76,
+        "completion_tokens": 4
+    },
+    {
+        "id": 11,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 12,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 4
+    },
+    {
+        "id": 13,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 4
+    },
+    {
+        "id": 14,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 68,
+        "completion_tokens": 3
+    },
+    {
+        "id": 15,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 69,
+        "completion_tokens": 4
+    },
+    {
+        "id": 16,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 4
+    },
+    {
+        "id": 17,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 18,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 5
+    },
+    {
+        "id": 19,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 5
+    },
+    {
+        "id": 20,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 98,
+        "completion_tokens": 7
+    },
+    {
+        "id": 21,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 82,
+        "completion_tokens": 8
+    },
+    {
+        "id": 22,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 92,
+        "completion_tokens": 8
+    },
+    {
+        "id": 23,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 82,
+        "completion_tokens": 6
+    },
+    {
+        "id": 24,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 4
+    },
+    {
+        "id": 25,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 84,
+        "completion_tokens": 11
+    },
+    {
+        "id": 26,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 5
+    },
+    {
+        "id": 27,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 73,
+        "completion_tokens": 5
+    },
+    {
+        "id": 28,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 5
+    },
+    {
+        "id": 29,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 5
+    },
+    {
+        "id": 30,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 96,
+        "completion_tokens": 9
+    },
+    {
+        "id": 31,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 84,
+        "completion_tokens": 7
+    },
+    {
+        "id": 32,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 3
+    },
+    {
+        "id": 33,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 79,
+        "completion_tokens": 6
+    },
+    {
+        "id": 34,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 5
+    },
+    {
+        "id": 35,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 4
+    },
+    {
+        "id": 36,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 4
+    },
+    {
+        "id": 37,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 79,
+        "completion_tokens": 5
+    },
+    {
+        "id": 38,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 79,
+        "completion_tokens": 4
+    },
+    {
+        "id": 39,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 6
+    },
+    {
+        "id": 40,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 79,
+        "completion_tokens": 5
+    },
+    {
+        "id": 41,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 69,
+        "completion_tokens": 4
+    },
+    {
+        "id": 42,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 3
+    },
+    {
+        "id": 43,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 44,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 92,
+        "completion_tokens": 9
+    },
+    {
+        "id": 45,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 6
+    },
+    {
+        "id": 46,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 4
+    },
+    {
+        "id": 47,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 82,
+        "completion_tokens": 11
+    },
+    {
+        "id": 48,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 4
+    },
+    {
+        "id": 49,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 3
+    },
+    {
+        "id": 50,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 3
+    },
+    {
+        "id": 51,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 85,
+        "completion_tokens": 7
+    },
+    {
+        "id": 52,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 53,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 3
+    },
+    {
+        "id": 54,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 3
+    },
+    {
+        "id": 55,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 77,
+        "completion_tokens": 5
+    },
+    {
+        "id": 56,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 10
+    },
+    {
+        "id": 57,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 7
+    },
+    {
+        "id": 58,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 81,
+        "completion_tokens": 7
+    },
+    {
+        "id": 59,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 105,
+        "completion_tokens": 14
+    },
+    {
+        "id": 60,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 6
+    },
+    {
+        "id": 61,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 4
+    },
+    {
+        "id": 62,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 63,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 83,
+        "completion_tokens": 8
+    },
+    {
+        "id": 64,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 65,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 75,
+        "completion_tokens": 5
+    },
+    {
+        "id": 66,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 4
+    },
+    {
+        "id": 67,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 84,
+        "completion_tokens": 6
+    },
+    {
+        "id": 68,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 4
+    },
+    {
+        "id": 69,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 5
+    },
+    {
+        "id": 70,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 68,
+        "completion_tokens": 4
+    },
+    {
+        "id": 71,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 72,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 113,
+        "completion_tokens": 16
+    },
+    {
+        "id": 73,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 7
+    },
+    {
+        "id": 74,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 73,
+        "completion_tokens": 5
+    },
+    {
+        "id": 75,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 69,
+        "completion_tokens": 4
+    },
+    {
+        "id": 76,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 77,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 89,
+        "completion_tokens": 9
+    },
+    {
+        "id": 78,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 65,
+        "completion_tokens": 4
+    },
+    {
+        "id": 79,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 85,
+        "completion_tokens": 5
+    },
+    {
+        "id": 80,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 83,
+        "completion_tokens": 6
+    },
+    {
+        "id": 81,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 4
+    },
+    {
+        "id": 82,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 7
+    },
+    {
+        "id": 83,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 103,
+        "completion_tokens": 11
+    },
+    {
+        "id": 84,
+        "output": "A",
+        "acc": false,
+        "prompt_tokens": 78,
+        "completion_tokens": 4
+    },
+    {
+        "id": 85,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 90,
+        "completion_tokens": 11
+    },
+    {
+        "id": 86,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 82,
+        "completion_tokens": 5
+    },
+    {
+        "id": 87,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 79,
+        "completion_tokens": 4
+    },
+    {
+        "id": 88,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 86,
+        "completion_tokens": 4
+    },
+    {
+        "id": 89,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 6
+    },
+    {
+        "id": 90,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 4
+    },
+    {
+        "id": 91,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 3
+    },
+    {
+        "id": 92,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 87,
+        "completion_tokens": 5
+    },
+    {
+        "id": 93,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 4
+    },
+    {
+        "id": 94,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 4
+    },
+    {
+        "id": 95,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 103,
+        "completion_tokens": 12
+    },
+    {
+        "id": 96,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 87,
+        "completion_tokens": 7
+    },
+    {
+        "id": 97,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 82,
+        "completion_tokens": 5
+    },
+    {
+        "id": 98,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 91,
+        "completion_tokens": 9
+    },
+    {
+        "id": 99,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 85,
+        "completion_tokens": 9
+    },
+    {
+        "id": 100,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 78,
+        "completion_tokens": 6
+    },
+    {
+        "id": 101,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 3
+    },
+    {
+        "id": 102,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 82,
+        "completion_tokens": 4
+    },
+    {
+        "id": 103,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 5
+    },
+    {
+        "id": 104,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 6
+    },
+    {
+        "id": 105,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 5
+    },
+    {
+        "id": 106,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 7
+    },
+    {
+        "id": 107,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 7
+    },
+    {
+        "id": 108,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 5
+    },
+    {
+        "id": 109,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 6
+    },
+    {
+        "id": 110,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 72,
+        "completion_tokens": 4
+    },
+    {
+        "id": 111,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 5
+    },
+    {
+        "id": 112,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 4
+    },
+    {
+        "id": 113,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 5
+    },
+    {
+        "id": 114,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 7
+    },
+    {
+        "id": 115,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 5
+    },
+    {
+        "id": 116,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 83,
+        "completion_tokens": 5
+    },
+    {
+        "id": 117,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 5
+    },
+    {
+        "id": 118,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 5
+    },
+    {
+        "id": 119,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 4
+    },
+    {
+        "id": 120,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 84,
+        "completion_tokens": 8
+    },
+    {
+        "id": 121,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 7
+    },
+    {
+        "id": 122,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 67,
+        "completion_tokens": 3
+    },
+    {
+        "id": 123,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 4
+    },
+    {
+        "id": 124,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 92,
+        "completion_tokens": 8
+    },
+    {
+        "id": 125,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 72,
+        "completion_tokens": 3
+    },
+    {
+        "id": 126,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 85,
+        "completion_tokens": 7
+    },
+    {
+        "id": 127,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 6
+    },
+    {
+        "id": 128,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 6
+    },
+    {
+        "id": 129,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 79,
+        "completion_tokens": 6
+    },
+    {
+        "id": 130,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 131,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 73,
+        "completion_tokens": 6
+    },
+    {
+        "id": 132,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 5
+    },
+    {
+        "id": 133,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 65,
+        "completion_tokens": 3
+    },
+    {
+        "id": 134,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 5
+    },
+    {
+        "id": 135,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 136,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 4
+    },
+    {
+        "id": 137,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 3
+    },
+    {
+        "id": 138,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 4
+    },
+    {
+        "id": 139,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 85,
+        "completion_tokens": 6
+    },
+    {
+        "id": 140,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 69,
+        "completion_tokens": 5
+    },
+    {
+        "id": 141,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 5
+    },
+    {
+        "id": 142,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 81,
+        "completion_tokens": 5
+    },
+    {
+        "id": 143,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 5
+    },
+    {
+        "id": 144,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 6
+    },
+    {
+        "id": 145,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 83,
+        "completion_tokens": 4
+    },
+    {
+        "id": 146,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 70,
+        "completion_tokens": 3
+    },
+    {
+        "id": 147,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 79,
+        "completion_tokens": 7
+    },
+    {
+        "id": 148,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 85,
+        "completion_tokens": 7
+    },
+    {
+        "id": 149,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 5
+    },
+    {
+        "id": 150,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 5
+    },
+    {
+        "id": 151,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 4
+    },
+    {
+        "id": 152,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 5
+    },
+    {
+        "id": 153,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 80,
+        "completion_tokens": 9
+    },
+    {
+        "id": 154,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 81,
+        "completion_tokens": 5
+    },
+    {
+        "id": 155,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 67,
+        "completion_tokens": 4
+    },
+    {
+        "id": 156,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 71,
+        "completion_tokens": 4
+    },
+    {
+        "id": 157,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 75,
+        "completion_tokens": 7
+    },
+    {
+        "id": 158,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 4
+    },
+    {
+        "id": 159,
+        "output": "C",
+        "acc": true,
+        "prompt_tokens": 100,
+        "completion_tokens": 10
+    },
+    {
+        "id": 160,
+        "output": "D",
+        "acc": true,
+        "prompt_tokens": 78,
+        "completion_tokens": 4
+    },
+    {
+        "id": 161,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 72,
+        "completion_tokens": 8
+    },
+    {
+        "id": 162,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 5
+    },
+    {
+        "id": 163,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 87,
+        "completion_tokens": 7
+    },
+    {
+        "id": 164,
+        "output": "B",
+        "acc": false,
+        "prompt_tokens": 76,
+        "completion_tokens": 6
+    },
+    {
+        "id": 165,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 74,
+        "completion_tokens": 4
+    },
+    {
+        "id": 166,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 77,
+        "completion_tokens": 6
+    },
+    {
+        "id": 167,
+        "output": "D",
+        "acc": false,
+        "prompt_tokens": 82,
+        "completion_tokens": 5
+    },
+    {
+        "id": 168,
+        "output": "B",
+        "acc": true,
+        "prompt_tokens": 77,
+        "completion_tokens": 7
+    },
+    {
+        "id": 169,
+        "output": "C",
+        "acc": false,
+        "prompt_tokens": 78,
+        "completion_tokens": 5
+    },
+    {
+        "id": 170,
+        "output": "A",
+        "acc": true,
+        "prompt_tokens": 76,
+        "completion_tokens": 4
+    }
+]
