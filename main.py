@@ -64,6 +64,7 @@ def multi_test(args, task, save_path, infos, start_id, end_id):
     with open(save_path, 'w') as f:
         f.write(json.dumps(infos, indent=4))
 
+
 def test(args):
     task = get_task(args.task_name)
 
