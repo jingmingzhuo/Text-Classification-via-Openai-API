@@ -19,7 +19,7 @@ def run(args, task, id):
     return info 
 
 
-def activity(args, task, infos):
+def activity(args, task, infos, start_id, end_id):
     while True:
         global q
         id = q.get()
@@ -28,6 +28,11 @@ def activity(args, task, infos):
 
         info = run(args, task, id)
         lock.acquire()
+        print("-"*100)
+        global cnt
+        print("Test Progress %d / %d ." % (cnt-start_id+1, end_id-start_id))
+        cnt += 1
+        print(info)
         infos.append(info)
         lock.release()
         q.task_done()
@@ -36,6 +41,9 @@ def activity(args, task, infos):
 def single_test(args, task, save_path, infos, start_id, end_id):    
     for id in range(start_id, end_id):
         info = run(args, task, id)
+        print("-"*100)
+        print("Test Progress %d / %d ." % (id-start_id+1, end_id-start_id))
+        print(info)
         infos.append(info)
         if (id + 1) % 500 == 0 or id == end_id - 1: 
             with open(save_path, 'w') as f:
@@ -43,13 +51,13 @@ def single_test(args, task, save_path, infos, start_id, end_id):
 
 
 def multi_test(args, task, save_path, infos, start_id, end_id):
-    global lock
+    global lock, q, cnt
     lock = threading.Lock()
+    q = queue.Queue()
+    cnt = 0
     threads = []
     for id in range(args.thread_num):
-        threads.append(threading.Thread(target=activity, args=(args, task, infos)))
-    global q
-    q = queue.Queue()
+        threads.append(threading.Thread(target=activity, args=(args, task, infos, start_id, end_id)))
     for id in range(start_id, end_id):
         q.put(id)
     for thread in threads:
@@ -62,6 +70,7 @@ def multi_test(args, task, save_path, infos, start_id, end_id):
     with open(save_path, 'w') as f:
         f.write(json.dumps(infos, indent=4))
 
+
 def evaluate(infos):
     accs = 0
     num = len(infos)
@@ -69,8 +78,9 @@ def evaluate(infos):
         if infos[id]["acc"]:
             accs += 1
     accuracy = accs/num
-    print("-"*50)
-    print("The Accuracy is %.3f." % accuracy)
+    print("-"*100)
+    print("The Accuracy is %.3f ." % accuracy)
+
 
 def test(args):
     task = get_task(args.task_name)
@@ -105,6 +115,9 @@ def test(args):
 
     evaluate(infos)
 
+    print("-"*100)
+    print("The test is over .")
+
 
 def parse_args():
     args = argparse.ArgumentParser()
@@ -127,4 +140,6 @@ def parse_args():
 
 if __name__ == '__main__':
     args = parse_args()
+    print("-"*100)
+    print(args)
     test(args)
