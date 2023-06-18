@@ -12,7 +12,7 @@ def run(args, task, id):
     info["id"] = id
     input = task.get_input(args.prompt, id)
     response = get_response(input, args.model, args.temperature)
-    info["output"] = task.extract_output(args.prompt, response["content"])
+    info["output"] = task.extract_output(args.prompt, response["content"][0])
     info["acc"] = task.test_output(id, info["output"])
     info["prompt_tokens"] = response["prompt_tokens"]
     info["completion_tokens"] = response["completion_tokens"]
