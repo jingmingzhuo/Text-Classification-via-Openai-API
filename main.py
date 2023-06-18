@@ -62,6 +62,15 @@ def multi_test(args, task, save_path, infos, start_id, end_id):
     with open(save_path, 'w') as f:
         f.write(json.dumps(infos, indent=4))
 
+def evaluate(infos):
+    accs = 0
+    num = len(infos)
+    for id in range(num):
+        if infos[id]["acc"]:
+            accs += 1
+    accuracy = accs/num
+    print("-"*50)
+    print("The Accuracy is %.3f." % accuracy)
 
 def test(args):
     task = get_task(args.task_name)
@@ -93,6 +102,8 @@ def test(args):
         single_test(args, task, save_path, infos, start_id, end_id)
     else:
         multi_test(args, task, save_path, infos, start_id, end_id)
+
+    evaluate(infos)
 
 
 def parse_args():
