@@ -174,7 +174,7 @@ def parse_args():
     # task
     args.add_argument('--task_name', type=str, default='mmlu')
     args.add_argument('--task_file_path', type=str)
-    args.add_argument('--prompt', type=str, choices=['pure', 'few_shot', 'cot', 'tot'], default='pure')
+    args.add_argument('--prompt', type=str, choices=['pure', 'few-shot', 'cot', 'tot'], default='pure')
     # test
     args.add_argument('--thread', type=str, choices=['single', 'multi'], default='single')
     args.add_argument('--thread_num', type=int, default=4)
