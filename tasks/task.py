@@ -25,3 +25,5 @@ def get_task(args) ->Task:
         if args.prompt == "cot" or args.prompt == "tot":
             raise NotImplementedError
         return Sst2Task(args.task_file_path)
+    else:
+        raise NotImplementedError
