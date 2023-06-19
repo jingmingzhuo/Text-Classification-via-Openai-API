@@ -12,6 +12,7 @@ def run(args, task, id):
     info["id"] = id
     input = task.get_input(args.prompt, id)
     response = get_response(input, args.model, args.temperature)
+    print(response["content"][0])
     info["output"] = task.extract_output(args.prompt, response["content"][0])
     info["acc"] = task.test_output(id, info["output"])
     info["prompt_tokens"] = response["prompt_tokens"]
@@ -127,7 +128,6 @@ def evaluate(infos):
 
 def test(args):
     task = get_task(args)
-
     if args.save_path:
         save_path = args.save_path
     else:
@@ -173,8 +173,8 @@ def parse_args():
     args.add_argument('--generate_temperature', type=float, default=1.5)
     # task
     args.add_argument('--task_name', type=str, default='mmlu')
-    args.add_argument('--task_file_path', type=str, required=True)
-    args.add_argument('--prompt', type=str, choices=['pure', 'cot', 'tot'], default='pure')
+    args.add_argument('--task_file_path', type=str)
+    args.add_argument('--prompt', type=str, choices=['pure', 'few_shot', 'cot', 'tot'], default='pure')
     # test
     args.add_argument('--thread', type=str, choices=['single', 'multi'], default='single')
     args.add_argument('--thread_num', type=int, default=4)

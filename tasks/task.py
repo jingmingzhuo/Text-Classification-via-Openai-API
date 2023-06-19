@@ -15,6 +15,9 @@ class Task:
         pass
 
 def get_task(args) ->Task:
-    if args.name == 'mmlu':
+    if args.task_name == 'mmlu':
         from .mmlu import MmluTask
         return MmluTask(args.task_file_path)
+    if args.task_name == 'sst2':
+        from .sst2 import Sst2Task
+        return Sst2Task(args.task_file_path)
