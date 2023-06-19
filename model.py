@@ -10,12 +10,11 @@ if open_api_key != None:
 def completions_with_backoff(**kwargs):
     return openai.ChatCompletion.create(**kwargs)
 
-def get_response(prompt, model="gpt-3.5-turbo", temperature=0, max_tokens=300, n=1, stop=None) -> list:
+def get_response(prompt, model="gpt-3.5-turbo", temperature=0, max_tokens=1000, n=1, stop=None) -> list:
     messages = [{"role": "user", "content": prompt}]
     out = completions_with_backoff(model=model, messages=messages, temperature=temperature, max_tokens=max_tokens, n=n, stop=stop)
     response = {}
     response["content"] = [choice["message"]["content"] for choice in out["choices"]]
-    # response["content"] = [out["choices"][0]["message"]["content"]]
     response["prompt_tokens"] = out["usage"]["prompt_tokens"]
     response["completion_tokens"] = out["usage"]["completion_tokens"]
     return response

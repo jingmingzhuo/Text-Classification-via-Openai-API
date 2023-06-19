@@ -14,7 +14,7 @@ class Task:
     def test_output(self, id: int, output: str) -> bool:
         pass
 
-def get_task(name) ->Task:
-    if name == 'mmlu':
+def get_task(args) ->Task:
+    if args.name == 'mmlu':
         from .mmlu import MmluTask
-        return MmluTask('data\mmlu\world_religions_test.csv')
+        return MmluTask(args.task_file_path)
