@@ -1,6 +1,6 @@
 # Text Classification via Openai API
 
-In this project, I implemented an exception-capable, optional threading, reusable and checkpoint re-testing Openai API calling pipeline for text classification with supporting "zero-shot", "new-shot ", "chain of thoughts", and "tree of thoughts" methods.
+In this project, I implemented an exception-capable, optional threading, reusable and checkpoint re-testing Openai API calling pipeline for text classification with supporting "zero-shot", "few-shot ", "chain of thoughts", and "tree of thoughts" methods.
 
 ## Setup
 
